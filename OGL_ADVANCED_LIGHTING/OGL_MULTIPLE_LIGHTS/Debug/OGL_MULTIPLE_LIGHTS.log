@@ -1,0 +1,25 @@
+﻿  glad.c
+  stb_image.cpp
+  main.cpp
+c:\gl\include\engine\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(194,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(229,62): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(230,66): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(237,62): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(238,66): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(245,62): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(246,66): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(253,62): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(254,66): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(262,57): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(263,61): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(365,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(366,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(370,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(371,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(373,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(374,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_MULTIPLE_LIGHTS\main.cpp(383,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  Generando código...
+LINK : warning LNK4098: la biblioteca predeterminada'MSVCRT' entra en conflicto con otras bibliotecas; use la biblioteca /NODEFAULTLIB:biblioteca
+  OGL_MULTIPLE_LIGHTS.vcxproj -> C:\Users\jossr\source\repos\OGL_LIGHTING\Debug\OGL_MULTIPLE_LIGHTS.exe

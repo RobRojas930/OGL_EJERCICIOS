@@ -1,0 +1,5 @@
+﻿  stb_image.cpp
+  main.cpp
+C:\GL\include\engine\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+  Generando código...
+  OGL_Coordenadas.vcxproj -> C:\Users\jossr\source\repos\OGL_Coordenadas\Debug\OGL_Coordenadas.exe

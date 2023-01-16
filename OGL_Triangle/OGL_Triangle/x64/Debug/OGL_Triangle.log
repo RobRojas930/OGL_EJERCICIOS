@@ -1,0 +1,17 @@
+﻿  glad.c
+  main.cpp
+main.obj : error LNK2019: sÝmbolo externo glfwInit sin resolver al que se hace referencia en la funci¾n main
+main.obj : error LNK2019: sÝmbolo externo glfwTerminate sin resolver al que se hace referencia en la funci¾n main
+main.obj : error LNK2019: sÝmbolo externo glfwWindowHint sin resolver al que se hace referencia en la funci¾n main
+main.obj : error LNK2019: sÝmbolo externo glfwCreateWindow sin resolver al que se hace referencia en la funci¾n main
+main.obj : error LNK2019: sÝmbolo externo glfwWindowShouldClose sin resolver al que se hace referencia en la funci¾n main
+main.obj : error LNK2019: sÝmbolo externo glfwSetWindowShouldClose sin resolver al que se hace referencia en la funci¾n "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2019: sÝmbolo externo glfwSetFramebufferSizeCallback sin resolver al que se hace referencia en la funci¾n main
+main.obj : error LNK2019: sÝmbolo externo glfwPollEvents sin resolver al que se hace referencia en la funci¾n main
+main.obj : error LNK2019: sÝmbolo externo glfwGetKey sin resolver al que se hace referencia en la funci¾n "void __cdecl processInput(struct GLFWwindow *)" (?processInput@@YAXPEAUGLFWwindow@@@Z)
+main.obj : error LNK2019: sÝmbolo externo glfwMakeContextCurrent sin resolver al que se hace referencia en la funci¾n main
+main.obj : error LNK2019: sÝmbolo externo glfwSwapBuffers sin resolver al que se hace referencia en la funci¾n main
+main.obj : error LNK2019: sÝmbolo externo glfwGetProcAddress sin resolver al que se hace referencia en la funci¾n main
+c:\gl\lib\opengl32.lib : warning LNK4272: el tipo de mßquina de biblioteca 'x86' estß en conflicto con el tipo de mßquina de destino 'x64'
+c:\gl\lib\glfw3.lib : warning LNK4272: el tipo de mßquina de biblioteca 'x86' estß en conflicto con el tipo de mßquina de destino 'x64'
+C:\Users\jossr\source\repos\OGL_Triangle\x64\Debug\OGL_Triangle.exe : fatal error LNK1120: 12 externos sin resolver

@@ -1,0 +1,11 @@
+﻿  main.cpp
+c:\GL\include\engine\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\jossr\source\repos\OGL_CAMERA\OGL_CAMERA\main.cpp(223,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_CAMERA\OGL_CAMERA\main.cpp(291,23): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_CAMERA\OGL_CAMERA\main.cpp(317,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_CAMERA\OGL_CAMERA\main.cpp(318,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_CAMERA\OGL_CAMERA\main.cpp(324,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_CAMERA\OGL_CAMERA\main.cpp(325,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_CAMERA\OGL_CAMERA\main.cpp(326,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_CAMERA\OGL_CAMERA\main.cpp(327,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  OGL_CAMERA.vcxproj -> C:\Users\jossr\source\repos\OGL_CAMERA\Debug\OGL_CAMERA.exe

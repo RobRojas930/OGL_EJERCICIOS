@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\engine\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\jossr\source\repos\OGL_Models\OGL_Models\main.cpp(98,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_Models\OGL_Models\main.cpp(172,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_Models\OGL_Models\main.cpp(173,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_Models\OGL_Models\main.cpp(177,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_Models\OGL_Models\main.cpp(178,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_Models\OGL_Models\main.cpp(180,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_Models\OGL_Models\main.cpp(181,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_Models\OGL_Models\main.cpp(190,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  OGL_Models.vcxproj -> C:\Users\jossr\source\repos\OGL_Models\Debug\OGL_Models.exe

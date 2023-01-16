@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\GL\include\engine\shader_m.h(44,40): warning C4101: 'e': variable local sin referencia
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_LIGHTING_MAPS\main.cpp(174,28): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_LIGHTING_MAPS\main.cpp(285,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_LIGHTING_MAPS\main.cpp(286,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_LIGHTING_MAPS\main.cpp(290,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_LIGHTING_MAPS\main.cpp(291,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_LIGHTING_MAPS\main.cpp(293,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_LIGHTING_MAPS\main.cpp(294,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\jossr\source\repos\OGL_LIGHTING\OGL_LIGHTING_MAPS\main.cpp(303,31): warning C4244: 'argumento': conversión de 'double' a 'float'; posible pérdida de datos
+  OGL_LIGHTING_MAPS.vcxproj -> C:\Users\jossr\source\repos\OGL_LIGHTING\Debug\OGL_LIGHTING_MAPS.exe
